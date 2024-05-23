@@ -1,0 +1,9 @@
+name: Punish
+version: '1.0'
+main: chips.punish.Punish
+api-version: '1.20'
+commands:
+    punish:
+        description: Punishes a player
+        usage: /<command> <player>
+        permission: punish.command
